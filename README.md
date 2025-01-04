@@ -10,7 +10,9 @@
 <p>## Future versions:<br>1. Add obstacles.<br>2. Add themes for the player.<br>3. Maybe try to add levels.<br>4. Multiplayer locally using 2 players and i also might try to make it client - server to play remotely with your friends.<br>5. Let the player change keybinds for the snake.<br>6. Add sound.<br>7. Add a button for the player to able to pause the game.</p>
 
 <p>If you wanna try the game, download the .exe and the high_score.txt file and add them into a single directory and run the .exe.</p>
-<p>Use the arrow keys to control the snake. Have fun!</p><br>
+<p>Use the arrow keys to control the snake. Have fun!<br>
+IF YOU ARE ON WINDOWS 11, DO NOT OPEN THE GAME IN TERMINAL<br>
+ALSO DO NOT OPEN THE GAME WITH ADMINISTRATOR PRIVILIGES</p><br>
 
 <p>Ver1.0: 4-1-2025</p>
 **Virus total check**(https://www.virustotal.com/gui/file/79288fde2eae5f1a5019ba596767d8c0c75c699a9cb1b018756b1495e06ebad6).
