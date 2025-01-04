@@ -11,7 +11,7 @@
 
 <p>If you wanna try the game, download the .exe and the high_score.txt file and add them into a single directory and run the .exe.</p>
 IF YOU ARE ON WINDOWS 11, DO NOT OPEN THE GAME IN THE WINDOWS 11 TERMINAL.<br>
-ALSO DO NOT OPEN THE GAME WITH ADMINISTRATOR PRIVILIGES.
+ALSO DO NOT OPEN THE GAME WITH ADMINISTRATOR PRIVILIGES.<br>
 <p>Use the arrow keys to control the snake. Have fun!<br></p><br>
 
 <p>Ver1.0: 4-1-2025</p>
