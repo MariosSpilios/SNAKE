@@ -7,7 +7,7 @@
 
 <p>If you wanna know how the code works look at the comments in the snake.c file</p>
 
-<p>## Future versions:<br>1. Add obstacles.<br>2. Add themes for the player.<br>3. Maybe try to add levels.<br>4. Multiplayer locally using 2 players and i also might try to make it client - server to play remotely with your friends.<br>5. Let the player decide change keybinds for the snake</p>
+<p>## Future versions:<br>1. Add obstacles.<br>2. Add themes for the player.<br>3. Maybe try to add levels.<br>4. Multiplayer locally using 2 players and i also might try to make it client - server to play remotely with your friends.<br>5. Let the player decide change keybinds for the snake.</p>
 
 <p>If you wanna try the game, download the .exe and the high_score.txt file and add them into a single directory and run the .exe.</p>
 <p>Use the arrow keys to control the snake. Have fun!</p><br>
