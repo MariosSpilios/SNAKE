@@ -11,5 +11,4 @@
 
 <p>If you wanna try the game, download the .exe and the high_score.txt file and add them into a single directory and run the .exe.</p>
 <p>Have fun!</p><br>
-**Virus total check**:
-[link](https://www.virustotal.com/gui/file/79288fde2eae5f1a5019ba596767d8c0c75c699a9cb1b018756b1495e06ebad6).
+**Virus total check**(https://www.virustotal.com/gui/file/79288fde2eae5f1a5019ba596767d8c0c75c699a9cb1b018756b1495e06ebad6).
